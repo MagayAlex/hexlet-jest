@@ -5,4 +5,4 @@ start:
 publish:
 	npm publish
 test:
-	npm test
+	npx test
